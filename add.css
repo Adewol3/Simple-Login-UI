@@ -1,0 +1,23 @@
+
+.head{
+	display: inline;
+	height: 100px;
+	overflow: auto;
+	margin-top: 20px;
+}
+
+#no1,#no2{
+
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#43375f ;
+	width: 100px;
+	border-radius: 3px;
+	padding: 5px;
+	color: white;
+}
+#no1{
+	background-color: white;
+	color: black;
+}
